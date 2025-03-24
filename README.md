@@ -47,7 +47,7 @@ The dataset includes the following columns:
 ## How to Run the Project
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/titanic-survival-prediction.git
+git clone https://github.com/RevanthReddy2111/titanic_survival_prediction.git
 cd titanic-survival-prediction
 
 
